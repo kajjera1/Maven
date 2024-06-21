@@ -33,10 +33,10 @@ mvn clean command removes the target directory and any other files generated dur
               
               syntax: mvn build
   
- 7. Deploy 
+7. Deploy 
  deploys the packaged artifacts to a remote repository. Typically, it's used to deploy artifacts to a Maven repository manager or a remote server.
  
             syntax:   mvn deploy
             
-8. mvn version
+8. check mvn version
                    syntax:  mvn -version
