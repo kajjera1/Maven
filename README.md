@@ -39,4 +39,5 @@ mvn clean command removes the target directory and any other files generated dur
             syntax:   mvn deploy
             
 8. check mvn version
-                   syntax:  mvn -version
+
+            syntax:  mvn -version
