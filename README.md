@@ -1,6 +1,8 @@
 # Maven
 Maven is an open-source build automation tool
+
 it is used to create artifact (war, jar, ear)
+
 maven read pom.xml file [pom.xml file having all project info and configration details]
 
 
